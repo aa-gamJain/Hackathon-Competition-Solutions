@@ -1,2 +1,0 @@
-DataScientist Challenge held on HackerEarth By GyanMatrix.
-It contain DataFile 'ign.csv' and the solutions of problems given.
